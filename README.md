@@ -15,5 +15,13 @@
 
 <img src="https://raw.githubusercontent.com/KelsonTeixeira/url-shortener/master/urlshort.jpg" width="700">
 
+<h2> Running </h2>
+<h3> Run the application </h3>
 
-Link: <a href="https://biiti.herokuapp.com/" target="_blank">https://biiti.herokuapp.com/</a>
+<ul>
+  <li>First of all run the yarn or npm command to install all dependencies</li>
+  <li>Then,to run using nodemon, use the command "$yarn dev" or "$npm run dev" </li>
+  <li>To run normally just use the command "$node server.js".</li>
+</ul>
+
+Deployed Link: <a href="https://biiti.herokuapp.com/" target="_blank">https://biiti.herokuapp.com/</a>
