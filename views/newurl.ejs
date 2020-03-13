@@ -69,7 +69,7 @@
     }
     .new-url input{
       padding: 10px 20px;
-      background-color: #2ecc71;
+      background-color: #3498db;
       border: none;
       width: 90%;
       max-width: 300px;
@@ -81,15 +81,13 @@
       cursor: pointer;
       position: relative;
     }
-    .new-url input:hover{
-      background-color: #27ae60;
-    }
 
     #copied{
       padding: 5px 10px;
-      border: 1px solid #353b48;
+      border: none;
+      color: #fff;
       border-radius: 10px;
-      background-color: #fafafa;
+      background-color: #1abc9c;
       position: absolute;
       opacity: 0;
       transition: all 0.5s;
@@ -121,7 +119,7 @@
       copied.style.opacity = '1';
       copied.style.left = event.screenX - 30;
       copied.style.top = event.screenY - 170;
-      eraseInterval = setInterval(erase, 1000);
+      eraseInterval = setInterval(erase, 500);
     });
 
     const erase = () => {
