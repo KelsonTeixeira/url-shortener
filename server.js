@@ -70,7 +70,7 @@ app.post('/shorturl', (req, res) => {
 });
 
 
-const PORT = process.env.PORT || 5500;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, (req, res) => {
   console.log(`server running on http://localhost:${PORT}`);
