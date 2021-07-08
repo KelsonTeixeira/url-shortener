@@ -10,7 +10,7 @@
 
 <h2>Observation</h2>
 
-<p> I believe that the big secret is to a domain very short. For example, if your </p>
+<p> I believe that the big secret is to have a domain very short. For example, if your </p>
 <p> domainin is "test.lu", the short url will looks like "test.lu/s/EIuMiMkd" </p>
 
 <img src="https://raw.githubusercontent.com/KelsonTeixeira/url-shortener/master/urlshort.jpg" width="700">
