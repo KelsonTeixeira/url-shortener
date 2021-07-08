@@ -1,6 +1,6 @@
 # <h1> URL Shortener </h1>
 
-<p> This is a personal project using NodeJS, EJS and NeDB </p>
+<p> This is a personal project using NodeJS, EJS and NeDB. Access <a href="https://biiti.herokuapp.com/" target="_blank">Here</a> </p>
 
 <h2>Information</h2>
 
